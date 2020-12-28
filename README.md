@@ -1,1 +1,1 @@
-# mysql_savarankiskas_darbas-
+# mysql_savarankiskas_darbas
