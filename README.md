@@ -12,14 +12,12 @@ Pasirinkta užduotis:
 2. Sudaryti prekių balansą (barkodai ir tiekejai nesvarbu). 
 <br>
 
-        a)  balanso lentelę pasirinktam mėnesiui, kuri atrodytu taip : 
+    a)  balanso lentelę pasirinktam mėnesiui, kuri atrodytu taip : 
         1.menuo 2.preke 3.prekiu grupe 4.rinka 5.kiekis gauta 6.suma gauta 7.kiekis parduota 8.suma parduota
-        <br>
+       
         
     b) balanso lentelę pagal mėnesiui, kuri atrodytu taip : 
-       <br>
         1. menuo 2. prekiu grupe 3. rinka 4.kiekis gauta 5.suma gauta 6.kiekis parduota 7.suma parduota
-       <br>
+      
     
     c) a ir b kartu, vienoje lentelėje  
-       <br>
