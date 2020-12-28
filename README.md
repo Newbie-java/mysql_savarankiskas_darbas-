@@ -1,5 +1,5 @@
 # mysql_savarankiskas_darbas
-# DUOMENŲ BAZĖ
+DUOMENŲ BAZĖ
 <p>
 Veržli ir nauja prekybos kompanija sukūrusi savo prekės ženklą, nuo metu pradžios prekiavo keletos grupių prekėmis, keliose skirtingose rinkose. Prekės surašytos lentelėje prekės, grupės ir rinkos lentelėje selektoriai. Prekes tiekdavo skirtingi tiekėjai (lentelė tiekėjai). Kiekvienas tiekėjas kartkartėmis prekę vis atnaujindavo. Tiekėjų prekėms iki atnaujinimo būdavo suteikiamas vienoks barkodas, po atnaujinimo kitoks( lentelė prekes_tiekejai). Nupirktos iš tiekėjų prekės sudėtos lentelėje prekes_gavimai. Lentelė prekes_pardavimai dėl programuotojų klaidos sudaryta klaidingai. id_prekes_gavimo teisngai nurodo tik pačią prekę, bet ne jos barkodą ar tiekėją
 <p>
